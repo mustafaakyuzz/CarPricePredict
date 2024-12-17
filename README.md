@@ -149,7 +149,7 @@ Eğitilmiş Lineer Regresyon modeli aşağıdaki sonuçlara ulaşmıştır:
 | **Ortalama Mutlak Hata (MAE)**| `1950.47`     |
 | **R² Skoru**                 | `0.90`        |
 
-### Önemli Yorum:  
+### Yorum:  
 - **R² Skoru 0.90**, araba fiyatlarındaki değişimin **%90'ının** modelin girdi özellikleriyle açıklanabildiğini gösterir.
 
 ---
